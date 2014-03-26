@@ -1,0 +1,9 @@
+.Banner{
+	background-color: white;
+	top: 10px;
+	position: absolute;
+	color: red;
+	display: inline-block;
+	font-size: 50px;
+	font: comic; 
+}

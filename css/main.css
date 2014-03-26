@@ -1,0 +1,57 @@
+
+body {
+	/*width: 1116px;*/
+	background: url('../images/background.jpg') no-repeat center fixed;
+	font-family: Arial, sans-serif;
+}
+
+ul {
+	margin-right: auto;
+}
+
+li {
+	border: 1px solid black;
+	font-size: 75%;
+	padding: 1%;
+	margin-bottom: 1%;
+}
+
+header {
+	border-radius: 5px;
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	color: white;
+	/*background-color: white;
+	opacity: 0.9;*/
+	font-size: 400%;
+	padding: 3%;
+}
+
+.content {
+	background-color: white;
+	opacity: 0.8;
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	font-size: 200%;
+	padding: 8%;
+}
+
+.list {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.delete {
+	height: 20px;
+	width: 20px;
+	margin-right: 5%;
+	vertical-align: top;
+}
+
+/**{
+	outline: red 1px solid;
+}*/
